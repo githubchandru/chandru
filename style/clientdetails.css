@@ -1,0 +1,255 @@
+/* Not required */
+.paddingfive {
+    padding: 0px 5px;
+}
+.paddingzero{
+	padding:0px;
+}
+/* Not required */
+
+.clientdetailsctn{
+	width: 100%;float: left;height: auto;padding: 30px 0px;
+}
+.clientdetail_block, .clientdetail_list, .clientdetail_sectionlist {
+	width: 100%;float: left;height: auto;padding: 0px 80px;
+}
+.clientdetail_overviewpadding{
+	padding:0px;
+}
+a.clientdetail_contactus {
+    width: auto;    text-decoration: none;
+    
+    height: auto;
+    padding: 10px 15px;
+    background-color: #F0704F;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 4px;
+    margin: 5px 0px;
+}
+a.clientdetail_pressrealse {
+    width: auto;    text-decoration: none;
+    
+    height: auto;
+    padding: 10px 15px;
+    background-color: #F0704F;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 4px;
+    margin: 5px 0px;
+}
+a.clientdetail_contactus:hover, a.clientdetail_pressrealse:hover
+{
+    background-color: #ee543b;
+    color: #fff;
+}
+.clientdetail_btns{
+	float:right;
+}
+.clientdetail_overview
+{
+	float: left;
+    font-size: 20px;
+	color:#1F496F;font-weight:bold;
+}
+.clientdetail_block > P {
+    color: #666;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: left;
+	float: left;
+    width: 100%;
+    padding-top: 10px;
+}
+.clientdetail_list_block
+{
+	background-color:#F6F6F6;
+}
+.clientdetail_list_sections {
+    width: 100%;
+    float: left;
+    height: auto;
+    border-radius: 1px;
+    padding: 10px 0px 0px;
+    background-color: #FFF;
+    margin: 5px 0px;
+    border: 1px solid #FFF;box-shadow: 0px 1px 10px -1px rgb(167, 171, 173);
+}
+.clientdetail_list_sections > p{
+	padding: 20px 10px;
+    height: 100px;font-size: 14px;color:#727272;text-align:center;
+}
+.clientdetail_list_more
+{
+	text-align:right;cursor:pointer;font-size: 14px;color:#949494;
+}
+.clientdetail_overview
+{
+	float:left;width:100%;font-size: 20px;
+	color:#1F496F;font-weight:bold;
+}
+.clientdetail_sectionlist > p{
+	color: #666;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: left;
+    float: left;
+    width: 100%;
+    padding-top: 10px;
+}
+.clientdetail_sectionlist_header
+{
+	float: left;
+    width: 100%;color: #666;font-size: 32px;color:#F2673B;
+}
+.accelerate_sales_part
+{
+	width: 100%;float: left;height: auto;padding: 0px 80px;
+}
+.clientdetail_sectionlist_content
+{
+	float: left;
+    width: 100%;margin:10px 0px 30px 0px;
+	background: -webkit-linear-gradient(left, rgba(255,0,0,0), rgba(224, 224, 224));
+    background: -o-linear-gradient(right, rgba(255,0,0,0), rgba(224, 224, 224));
+    background: -moz-linear-gradient(right, rgba(255,0,0,0), rgba(224, 224, 224));
+    background: linear-gradient(to right, rgba(255,0,0,0), rgb(224, 224, 224));
+}
+.enhance_customer_experience_content
+{
+	background: -webkit-linear-gradient(right, rgba(255,0,0,0), rgba(224, 224, 224));
+    background: -o-linear-gradient(left, rgba(255,0,0,0), rgba(224, 224, 224));
+    background: -moz-linear-gradient(left, rgba(255,0,0,0), rgba(224, 224, 224));
+    background: linear-gradient(to left, rgba(255,0,0,0), rgb(224, 224, 224));
+}
+.clientdetail_sectionlist_content_txt {
+    color: #666;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: left;
+    float: left;
+    width: 100%;
+}
+.enhance_customer_experience{
+	text-align:right;
+}
+.paddingleft10{
+	padding-left:10px;
+}
+.paddingright10{
+	padding-right:10px;
+}
+.clientdetails_allinventory{
+	padding:0px;
+}
+.boost_warehouse_img{
+	padding-top:10px;
+}
+.clientdetails_sprite1{
+	float: none;
+    display: block;
+    margin: 0px auto;
+	background: url('../images/clientdetails_sprite.svg') no-repeat -42px -23px;
+	width: 63px;
+	height: 51px;    margin-top: 10px;
+}
+.clientdetails_sprite2{
+	float: none;
+    display: block;
+    margin: 0px auto;
+	background: url('../images/clientdetails_sprite.svg') no-repeat -142px -23px;
+	width: 58px;
+	height: 51px;    margin-top: 10px;
+}
+.clientdetails_sprite3{
+	float: none;
+    display: block;
+    margin: 0px auto;
+	background: url('../images/clientdetails_sprite.svg') no-repeat -232px -23px;
+	width: 74px;
+	height: 51px;    margin-top: 10px;
+}
+.clientdetails_sprite4{
+	float: none;
+    display: block;
+    margin: 0px auto;
+	background: url('../images/clientdetails_sprite.svg') no-repeat -336px -23px;
+	width: 61px;
+	height: 51px;    margin-top: 10px;
+}
+.clientdetails_sprite5{
+	float: none;
+    display: block;
+    margin: 0px auto;
+	background: url('../images/clientdetails_sprite.svg') no-repeat -432px -23px;
+	width: 64px;
+	height: 51px;    margin-top: 10px;
+}
+.clientdetails_sprite6{
+	float: none;
+    display: block;
+    margin: 0px auto;
+	background: url('../images/clientdetails_sprite.svg') no-repeat -534px -23px;
+	width: 56px;
+	height: 51px;    margin-top: 10px;
+}
+.clientdetails_sprite7{
+	float: none;
+    display: block;
+    margin: 0px auto;
+	background: url('../images/clientdetails_sprite.svg') no-repeat -630px -23px;
+	width: 59px;
+	height: 51px;    margin-top: 10px;
+}
+.clientdetails_sprite8{
+	float: none;
+    display: block;
+    margin: 0px auto;
+	background: url('../images/clientdetails_sprite.svg') no-repeat -727px -23px;
+	width: 60px;
+	height: 51px;    margin-top: 10px;
+}
+.clientdetail_btns_part{
+	float:left;width:100%;
+}
+@media (min-width:768px) and (max-width:991px)
+{
+	.clientdetail_sectionlist_content > div > img{
+		padding-top: 65px;
+	}
+	.clientdetail_list_sections > p{
+		height:180px;
+	}
+	.boost_warehouse_img{
+		padding-top: 100px !important;
+	}
+}
+@media (min-width:992px) and (max-width:1200px)
+{
+	.clientdetail_list_sections > p{
+		height: 120px;
+	}
+}
+@media (min-width:1px) and (max-width:767px)
+{
+	.clientdetail_btns_part{
+		padding-top:10px;
+	}
+	.clientdetail_contactus, .clientdetail_pressrealse{
+		width:100%;
+	}
+	.enhance_customer_experience {
+		text-align: left;
+	}
+}
+@media (min-width:1px) and (max-width:480px)
+{
+	.clientdetail_contactus, .clientdetail_pressrealse {
+		width: 100% !important;
+		float: left;
+	}
+}

@@ -1,0 +1,40 @@
+.partner_analyticaldetailsctn{
+	width: 100%;float: left;height: auto;padding: 0px 0px;background-color:#F3F6F9;
+}
+.partner_enabledetailsctn{
+	width: 100%;float: left;height: auto;padding: 0px 0px;
+}
+.newpartnerdetail_block{
+	width: 100%;float: left;height: auto;padding: 50px 80px;
+}
+.newpartnerdetail_overview{
+	float: left;width: 100%;font-size: 26px;color: #1B65AF;font-weight: bold;
+}
+.newpartnerdetail_overview_ul{
+	float:left;width:100%;padding-top:20px;    padding-left: 20px;
+}
+.newpartnerdetail_overview_ul > .newpartnerdetail_overview_li{
+	color: #C9C9C9;font-size:22px;float: left;
+    list-style-type: inherit;
+}
+.newpartnerdetail_overview_ul > .newpartnerdetail_overview_li span{
+	color:#858688;font-size:18px;    padding-left: 10px;float: left; margin-top: 4px;
+}
+.newpartnerdetail_overview-img{
+	padding-top:20px;
+}
+.partner_programctn{
+	float:left;width:100%;color:#858688;padding-top: 55px;font-size: 18px;
+}
+.newpartnerdetail_headerblock{
+	float:left;width:100%;
+}
+.newpartnerdetail_headerblock > div{
+	float:right;
+}
+
+.newpartnerprogram-img{
+	float: none;
+    display: block;
+    margin: auto;
+}

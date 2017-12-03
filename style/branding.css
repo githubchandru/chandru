@@ -1,0 +1,128 @@
+.brandingdetailsctn{
+	width: 100%;float: left;height: auto;padding: 30px 0px;
+}
+.brandingdetail_block {
+	width: 100%;float: left;height: auto;padding: 0px 80px;
+}
+.brandingdetail_overviewpadding{
+	padding:0px;
+}
+.brandingdetail_headerlogo, .brandingdetail_headerattachment{
+	border-bottom:1px solid #EEE;
+}
+.padding0{
+	padding:0px;
+}
+.brandingdetail_overviewheader
+{
+	float:left;width:100%;font-size: 20px;color:#1F496F;font-weight:bold;
+}
+.brandingdetail_headerlogo{
+	font-size: 26px;color:#1A628D;font-weight:normal;padding-bottom: 5px;
+}
+.brandingdetail_headerattachment{
+		font-size: 20px;padding:0px 0px 5px 60px;
+}
+.brandingdetail_fileattachment{
+	padding:0px 0px 0px 60px;
+}
+.attachmenticon{
+	width:5%;display:inline;
+}
+.brandingdetail_headerattachmenttxt{
+		width:auto;display:inline;font-size:26px;
+}
+.attachmentlogo{
+	padding-top:10px;
+}
+.brandingdetail_filetype{
+		float:left;width:100%;
+}
+.icontype{
+	display:inline-block;    width: 70%;
+}
+.download-icons{
+	float:right;width: 30%;cursor:pointer;
+}
+.download-zipicons{
+	cursor:pointer;
+}
+.logo-filename{
+	font-size:18px;color:#000;
+	float:left;width:100%;overflow: hidden; text-overflow: ellipsis;  white-space: nowrap;
+}
+.logo-sizedetails{
+	font-size:14px;color:#A3A3A3;
+}
+.brandingdetail_filetypepng{
+	
+		    float: left;
+    width: 100%;
+    padding: 10px 0px;
+    border-bottom: 1px solid #EEE;
+}
+.share_and_downloadborder{
+	border-bottom: 1px solid #EEE;
+}
+.share_and_download{
+	float:left;width:100%;padding:10px 0px 5px 0px;
+}
+.share_and_downloadicon{
+	float:left;width:100%;padding:5px 0px 10px 0px;
+}
+.download-txt{
+		font-size:15px;color:#828282;font-weight:bold;
+}
+@media (min-width:768px) and (max-width:991px)
+{
+	.brandingdetail_block{
+		padding:0px;
+	}
+	.brandingdetailsctn > .container{
+			width:100%;
+	}
+	.brandingdetail_headerattachment{
+		padding:0px 0px 5px 40px;
+	}
+	.brandingdetail_fileattachment{
+		padding:0px 0px 0px 40px;
+	}
+}
+@media (min-width:992px) and (max-width:1200px)
+{
+	.brandingdetail_block{
+		padding:0px;
+	}
+}
+@media (min-width:1px) and (max-width:767px)
+{
+	.brandingdetail_block{
+		padding:0px;
+	}
+	.brandingdetailsctn > .container{
+			width:100%;
+	}
+	.attachmentlogo {
+		float: none;
+		display: block;
+		margin: 0px auto;
+	}
+	.brandingdetail_headerlogo{
+			text-align:center;
+	}
+	.brandingdetail_headerattachment{
+			text-align:center;padding-top:10px;
+	}
+	.brandingdetail_headerattachment{
+		padding:0px 0px 5px 40px;
+	}
+	.brandingdetail_fileattachment{
+		padding:0px 0px 0px 40px;
+	}
+}
+@media (min-width:1px) and (max-width:480px)
+{
+	.download-icons{
+			width:100%;
+	}
+}
